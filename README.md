@@ -1,2 +1,2 @@
-# Conways_Game_of_Life
+# Python-Console-Conways_Game_of_Life
  
